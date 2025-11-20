@@ -5,7 +5,6 @@
 export interface Task {
   id: number;
   title: string;
-  description?: string;
   completed: string;
 }
 
@@ -14,4 +13,5 @@ export interface Task {
  */
 export interface CreateTaskDto {
   title: any;
+  completed: any;
 }

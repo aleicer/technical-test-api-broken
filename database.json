@@ -11,7 +11,12 @@
   },
   {
     "id": 3,
-    "title": "test",
+    "title": "The error is in the update function",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "In the interface Task, the completed should be boolean",
     "completed": false
   }
 ]
